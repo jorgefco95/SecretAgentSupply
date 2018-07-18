@@ -1,0 +1,20 @@
+.logo {
+  background-color: black;
+  color: white;
+  max-width: 960px;
+  padding: 12px 0px 12px 9px;
+  margin: 0px 242px 0px 242px;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  padding-right: 15px;
+  width: 41px;
+}
+
+header {
+  background-color: black;
+  font-family: Helvetica;
+  font-size: 18px;
+}
